@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: azure;
+}
+.viagem_mainDiv{
+    border: 2px solid rgb(170, 0, 255)
+}
+.viagem_mainDiv img{
+    width: 80%;
+}
+.viagem_mainDiv h5, .viagem_mainDiv p{
+    margin: 20px;
+}
+
+#contact iframe
+{
+    width: 50%;
+}
